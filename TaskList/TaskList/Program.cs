@@ -7,6 +7,7 @@ namespace TaskList
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            View.start();
         }
     }
 }
